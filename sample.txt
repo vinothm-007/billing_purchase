@@ -1,4 +1,8 @@
 Testing purpose
 tested
 // sample asdf //
+<<<<<<< HEAD
 Testeddddd
+=======
+demo
+>>>>>>> 3a6986dcebc9e1ceb45c5bb1114d0f89033496cb
